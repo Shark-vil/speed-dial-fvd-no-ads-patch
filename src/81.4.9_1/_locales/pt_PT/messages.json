@@ -1,0 +1,1645 @@
+{
+   "bg_default_dial_aliexpress": {
+      "message": "AliExpress"
+   },
+   "bg_default_dial_amazon": {
+      "message": "Amazon"
+   },
+   "bg_default_dial_betterchrome": {
+      "message": "BetterChrome"
+   },
+   "bg_default_dial_billiger": {
+      "message": "Billiger"
+   },
+   "bg_default_dial_booking": {
+      "message": "Booking.com"
+   },
+   "bg_default_dial_ebay": {
+      "message": "EBay"
+   },
+   "bg_default_dial_facebook": {
+      "message": "FaceBook"
+   },
+   "bg_default_dial_fvdsdff": {
+      "message": "FVD SpeedDial para o FireFox"
+   },
+   "bg_default_dial_fvdsyncchrome": {
+      "message": "EverSync"
+   },
+   "bg_default_dial_google": {
+      "message": "Google"
+   },
+   "bg_default_dial_groupon": {
+      "message": "Groupon"
+   },
+   "bg_default_dial_half_com": {
+      "message": "Half.com"
+   },
+   "bg_default_dial_nimbus": {
+      "message": "Nimbus Note"
+   },
+   "bg_default_dial_tripadvizor": {
+      "message": "TripAdvisor"
+   },
+   "bg_default_dial_twitter": {
+      "message": "Twitter"
+   },
+   "bg_default_dial_wayfair": {
+      "message": "Wayfair"
+   },
+   "bg_default_dial_webstore": {
+      "message": "Chrome Web Store"
+   },
+   "bg_default_group_name": {
+      "message": "Padrão"
+   },
+   "bg_default_group_products": {
+      "message": "Nossos produtos"
+   },
+   "bg_dialog_adddial_autoupdate_days": {
+      "message": "Days"
+   },
+   "bg_dialog_adddial_autoupdate_every": {
+      "message": "Every"
+   },
+   "bg_dialog_adddial_autoupdate_hours": {
+      "message": "Hours"
+   },
+   "bg_dialog_adddial_autoupdate_minutes": {
+      "message": "Minutes"
+   },
+   "bg_dialog_adddial_click_to_get_title": {
+      "message": "Clique para obter o título"
+   },
+   "bg_dialog_adddial_custom_preview_updated": {
+      "message": " (Actualizado!)"
+   },
+   "bg_dialog_adddial_default_preview": {
+      "message": "Logo predefinido"
+   },
+   "bg_dialog_adddial_enable_autoupdate_preview": {
+      "message": "Auto Update"
+   },
+   "bg_dialog_adddial_group": {
+      "message": "Grupo"
+   },
+   "bg_dialog_adddial_group_name": {
+      "message": "Nome do grupo"
+   },
+   "bg_dialog_adddial_image_url": {
+      "message": "Visualizar URL"
+   },
+   "bg_dialog_adddial_pic_local_file": {
+      "message": "Local File?"
+   },
+   "bg_dialog_adddial_pick_local_file_desc": {
+      "message": "To link dial to you local file you need to write correct file location in format:\u003Cbr>{examples}\u003Cbr>Alternative way how to get file address: open new tab. drag and drop file into your browser. In URL bar you will see the address of your files."
+   },
+   "bg_dialog_adddial_pick_local_file_desc_linux": {
+      "message": "file://{full path to file}\u003Cbr>For example: \u003Cb>file:///home/user/page.html\u003C/b>"
+   },
+   "bg_dialog_adddial_pick_local_file_desc_win": {
+      "message": "file:///{full path to file where \\ replaced by /}\u003Cbr>For example: \u003Cb>file:///C:\\user\\pic.jpg\u003C/b>"
+   },
+   "bg_dialog_adddial_pick_url_from": {
+      "message": "Seleccionar URL de:"
+   },
+   "bg_dialog_adddial_pick_url_from_most_popular": {
+      "message": "Mais populares"
+   },
+   "bg_dialog_adddial_pick_url_from_most_visited": {
+      "message": "Mais visitadas"
+   },
+   "bg_dialog_adddial_pick_url_from_opened_tabs": {
+      "message": "Abas abertas"
+   },
+   "bg_dialog_adddial_pick_url_from_or": {
+      "message": "ou"
+   },
+   "bg_dialog_adddial_pick_user_pic": {
+      "message": "Pesquisar galerias de utilizadores"
+   },
+   "bg_dialog_adddial_preview_creation_delay": {
+      "message": "Visualizar o atraso de criação (ms):"
+   },
+   "bg_dialog_adddial_refresh_preview": {
+      "message": "Actualizar visualização"
+   },
+   "bg_dialog_adddial_title": {
+      "message": "Título"
+   },
+   "bg_dialog_adddial_top10pics_showmore": {
+      "message": "Mostrar mais"
+   },
+   "bg_dialog_adddial_top10pics_title": {
+      "message": "Top 10 de imagens dos utilizadores"
+   },
+   "bg_dialog_adddial_url": {
+      "message": "URL"
+   },
+   "bg_dialog_adddial_use_auto_preview": {
+      "message": "Visualização automática"
+   },
+   "bg_dialog_adddial_use_custom_preview": {
+      "message": "Visualização personalizada"
+   },
+   "bg_dialog_adddial_use_manual_preview": {
+      "message": "Visualização manual"
+   },
+   "bg_dialog_addgroup_name": {
+      "message": "Nome"
+   },
+   "bg_dialog_addgroup_position": {
+      "message": "Add To:"
+   },
+   "bg_dialog_addgroup_position_bottom": {
+      "message": "Bottom"
+   },
+   "bg_dialog_addgroup_position_top": {
+      "message": "Top"
+   },
+   "bg_dialog_addgroup_sync": {
+      "message": "Sincronizar este grupo"
+   },
+   "bg_dialog_deny_sign": {
+      "message": "Sinal"
+   },
+   "bg_dialog_deny_type": {
+      "message": "Tipo"
+   },
+   "bg_dialog_deny_type_domain": {
+      "message": "Domínio"
+   },
+   "bg_dialog_deny_type_url": {
+      "message": "URL"
+   },
+   "bg_dialog_import_export_eversync_1": {
+      "message": "Esse tipo de backup não irá salvar suas imagens personalizadas!!!"
+   },
+   "bg_dialog_import_export_eversync_2": {
+      "message": "Se precisar de um backup completo, use nossa extensão de backup online:"
+   },
+   "bg_dialog_import_export_eversync_clickhere": {
+      "message": "Clique aqui para instalar a extensão..."
+   },
+   "bg_dialog_loading": {
+      "message": "Carregando..."
+   },
+   "bg_dialog_manage_deny_sign": {
+      "message": "Sinal"
+   },
+   "bg_dialog_manage_deny_type": {
+      "message": "Tipo"
+   },
+   "bg_dialog_managegroups_groups": {
+      "message": "Grupos"
+   },
+   "bg_dialog_setautoupdate_autoupdate_every": {
+      "message": "Auto update dial every"
+   },
+   "bg_dialog_view_group_title": {
+      "message": "Título"
+   },
+   "bg_dialog_view_group_url": {
+      "message": "Url"
+   },
+   "bg_write_review_dial_chromedownloader": {
+      "message": "FVD Video Downloader"
+   },
+   "bg_write_review_dial_title": {
+      "message": "Escreva seu comentário"
+   },
+   "cm_add_to": {
+      "message": "Adicionar ao "
+   },
+   "cm_apps_open": {
+      "message": "Abrir"
+   },
+   "cm_apps_remove": {
+      "message": "Remover"
+   },
+   "cm_main_title": {
+      "message": "FVD Speed Dial"
+   },
+   "cm_mostvisited_cell_add_to_speeddial": {
+      "message": "Adicionar ao SpeedDial"
+   },
+   "cm_mostvisited_cell_block": {
+      "message": "Bloquear"
+   },
+   "cm_refresh_all": {
+      "message": "Actualizar tudo"
+   },
+   "cm_scrolling_type": {
+      "message": "Modo de rolamento"
+   },
+   "cm_speeddial_cell_copy_url": {
+      "message": "Copiar o URL"
+   },
+   "cm_speeddial_cell_edit": {
+      "message": "Editar"
+   },
+   "cm_speeddial_cell_move_to": {
+      "message": "Mover para"
+   },
+   "cm_speeddial_cell_open_bg_tab": {
+      "message": "Abrir numa guia em plano de fundo"
+   },
+   "cm_speeddial_cell_open_incognito_tab": {
+      "message": "Open in Incognito window"
+   },
+   "cm_speeddial_cell_open_new_tab": {
+      "message": "Abrir numa nova guia"
+   },
+   "cm_speeddial_cell_open_tab": {
+      "message": "Abrir na guia"
+   },
+   "cm_speeddial_cell_refresh": {
+      "message": "Actualização"
+   },
+   "cm_speeddial_cell_refresh_manual": {
+      "message": "Actualizar manualmente"
+   },
+   "cm_speeddial_cell_remove": {
+      "message": "Excluir Dial"
+   },
+   "cm_speeddial_global_add_dial": {
+      "message": "Adicionar Dial"
+   },
+   "cm_speeddial_global_change_size": {
+      "message": "Alterar o tamanho..."
+   },
+   "cm_speeddial_global_number_of_columns": {
+      "message": "Número de colunas"
+   },
+   "cm_speeddial_global_number_of_rows": {
+      "message": "Número de linhas"
+   },
+   "cm_speeddial_global_open_all": {
+      "message": "Abrir todos os Dials"
+   },
+   "cm_speeddial_global_preview": {
+      "message": "Visualizar"
+   },
+   "cm_speeddial_global_style": {
+      "message": "Estilo"
+   },
+   "cm_speeddial_global_style_fancy": {
+      "message": "3D Wall"
+   },
+   "cm_speeddial_global_style_standard": {
+      "message": "Padrão"
+   },
+   "cm_speeddial_global_view": {
+      "message": "Visualização"
+   },
+   "cm_speeddial_global_view_big": {
+      "message": "Grande"
+   },
+   "cm_speeddial_global_view_custom": {
+      "message": "Personalizado"
+   },
+   "cm_speeddial_global_view_list": {
+      "message": "Lista"
+   },
+   "cm_speeddial_global_view_medium": {
+      "message": "Médio"
+   },
+   "cm_speeddial_global_view_small": {
+      "message": "Pequeno"
+   },
+   "cm_speeddial_group_default": {
+      "message": "Padrão"
+   },
+   "cm_speeddial_group_edit": {
+      "message": "Editar"
+   },
+   "cm_speeddial_group_manage": {
+      "message": "Gerenciar grupos"
+   },
+   "cm_speeddial_group_open_all": {
+      "message": "Abrir todos os Dials"
+   },
+   "cm_speeddial_group_remove": {
+      "message": "Remover"
+   },
+   "cm_speeddial_group_sync_this_group": {
+      "message": "Sincronizar este grupo"
+   },
+   "cropper_click_to_make_preview": {
+      "message": "Clique para visualizar"
+   },
+   "cropper_last_page_url": {
+      "message": "URL da última página"
+   },
+   "cropper_message_wait": {
+      "message": "Criando a miniatura... Por favor, aguarde..."
+   },
+   "cropper_pick_this": {
+      "message": "Escolher este"
+   },
+   "cropper_your_url": {
+      "message": "Seu URL"
+   },
+   "cs_dial_added": {
+      "message": "O Dial foi adicionado"
+   },
+   "dialog_add_dial_dynamic_title": {
+      "message": "Título dinâmico"
+   },
+   "dialog_add_dial_enter_image_url": {
+      "message": "Digite o URL da imagem"
+   },
+   "dialog_pick_user_pics_bottom_desc_1": {
+      "message": "Use"
+   },
+   "dialog_pick_user_pics_bottom_desc_2": {
+      "message": "para reportar uma violação."
+   },
+   "dialog_pick_user_pics_not_found": {
+      "message": "Não foi encontrada nenhuma imagem para o seu pedido."
+   },
+   "dialog_pick_user_pics_not_found_enter_in": {
+      "message": "Quando você encontrar uma imagem que você goste, copie o URL e Cole neste formulário:"
+   },
+   "dialog_pick_user_pics_not_found_title": {
+      "message": "Você pode pesquisar por {host} logos nesses óptimos recursos e adicionar eles à nossa galeria."
+   },
+   "dialog_pick_user_pics_order": {
+      "message": "Pedido: "
+   },
+   "dialog_pick_user_pics_order_best": {
+      "message": "Melhor"
+   },
+   "dialog_pick_user_pics_order_new": {
+      "message": "Novo"
+   },
+   "dialog_pick_user_pics_report": {
+      "message": "Reportar imagem"
+   },
+   "dialog_pick_user_pics_report_duplicate": {
+      "message": "Duplicada"
+   },
+   "dialog_pick_user_pics_report_innop": {
+      "message": "Inadequada"
+   },
+   "dialog_pick_user_pics_report_thanks": {
+      "message": "Obrigado!"
+   },
+   "dialog_title_add_dial": {
+      "message": "Adicionar Dial"
+   },
+   "dialog_title_add_group": {
+      "message": "Adicionar grupo"
+   },
+   "dialog_title_deny": {
+      "message": "Bloquear"
+   },
+   "dialog_title_edit_deny": {
+      "message": "Editar regra de bloqueio"
+   },
+   "dialog_title_export": {
+      "message": "Exportar"
+   },
+   "dialog_title_import": {
+      "message": "Importar"
+   },
+   "dialog_title_install_fvd_sync": {
+      "message": "Instalar o FVD Synchronizer"
+   },
+   "dialog_title_manage_deny": {
+      "message": "Gerenciar bloqueados"
+   },
+   "dialog_title_manage_groups": {
+      "message": "Gerenciar grupos"
+   },
+   "dialog_title_modify_dial": {
+      "message": "Modificar o Dial"
+   },
+   "dialog_title_modify_group": {
+      "message": "Modificar Grupo"
+   },
+   "dialog_title_pick_user_images": {
+      "message": "Escolha a imagem que você gosta"
+   },
+   "dialog_title_set_autoupdate_batch": {
+      "message": "Set auto update"
+   },
+   "dialog_title_view_group": {
+      "message": "Ver Grupo"
+   },
+   "dlg_adddial_create_group": {
+      "message": "Criar um novo grupo..."
+   },
+   "dlg_adddial_help_us_user_pics": {
+      "message": "Nos ajude a melhorar as imagens predefinidas. Digite o URL ou faça o upload do seu arquivo Local de logotipos personalizados dos seus sítios favoritos. Eles irão para a galeria do utilizador!"
+   },
+   "dlg_adddial_set_file": {
+      "message": "Do arquivo local"
+   },
+   "dlg_alert_cannot_remove_group_text": {
+      "message": "Não é possível remover o último grupo"
+   },
+   "dlg_alert_cannot_remove_group_title": {
+      "message": "Não é possível remover o grupo"
+   },
+   "dlg_alert_dials_autoupdate_updated_text": {
+      "message": "Dials updated successully."
+   },
+   "dlg_alert_dials_autoupdate_updated_title": {
+      "message": "Success!"
+   },
+   "dlg_alert_fail_obtain_user_pics_text": {
+      "message": "A biblioteca de imagens dos utilizadores não está disponível agora, por favor, tente novamente mais tarde."
+   },
+   "dlg_alert_fail_obtain_user_pics_title": {
+      "message": "Fotos de utilizadores não estão disponíveis agora"
+   },
+   "dlg_alert_ok": {
+      "message": " OK "
+   },
+   "dlg_alert_release_left_button": {
+      "message": "Por favor, solte o botão do rato para criar um screenshot!"
+   },
+   "dlg_alert_sd_locked_action_text": {
+      "message": "O Speed Dial está bloqueado. Por favor, desbloqueie ele para processar essa acção."
+   },
+   "dlg_alert_sd_locked_action_title": {
+      "message": "Acesso negado"
+   },
+   "dlg_alert_set_auto_preview_global_text": {
+      "message": "Os Dials manuais foram alterados com êxito!"
+   },
+   "dlg_alert_set_auto_preview_global_title": {
+      "message": "Sucesso!"
+   },
+   "dlg_alert_sync_on_another_driver_text": {
+      "message": "Outros dados (favoritos, etc.) estão a sincronizar agora. Por favor, aguarde enquanto a sincronização está sendo concluída"
+   },
+   "dlg_alert_sync_on_another_driver_title": {
+      "message": "O Sync está activo"
+   },
+   "dlg_alert_wait_importing_text": {
+      "message": "Aguarde enquanto a importação é processada"
+   },
+   "dlg_alert_wait_importing_title": {
+      "message": "Por favor, aguarde"
+   },
+   "dlg_button_add_deny_rule": {
+      "message": "Adicionar regra de bloqueio"
+   },
+   "dlg_button_add_dial": {
+      "message": "Adicionar Dial"
+   },
+   "dlg_button_add_group": {
+      "message": "Adicionar grupo"
+   },
+   "dlg_button_cancel": {
+      "message": "Cancelar"
+   },
+   "dlg_button_close": {
+      "message": "Fechar"
+   },
+   "dlg_button_copy_to_clipboard": {
+      "message": "Copiar para área de transferência"
+   },
+   "dlg_button_deny": {
+      "message": "Bloquear"
+   },
+   "dlg_button_import": {
+      "message": "Importar"
+   },
+   "dlg_button_modify_dial": {
+      "message": "Modificar"
+   },
+   "dlg_button_modify_group": {
+      "message": "Modificar o grupo"
+   },
+   "dlg_button_save": {
+      "message": "Salvar"
+   },
+   "dlg_confirm_cancel": {
+      "message": "Cancelar"
+   },
+   "dlg_confirm_dial_exists_text": {
+      "message": "Já existe um Dial com esse URL. Continuar?"
+   },
+   "dlg_confirm_dial_exists_title": {
+      "message": "Já existe?"
+   },
+   "dlg_confirm_disable_quick_preview_text": {
+      "message": "Do you really want to disable Quick Preview Widget?"
+   },
+   "dlg_confirm_disable_quick_preview_title": {
+      "message": "Please confirm your action."
+   },
+   "dlg_confirm_import_text": {
+      "message": "A importação irá remover o banco de dados de Dials actual e substituir as configurações actuais com configurações de importação, continuar?"
+   },
+   "dlg_confirm_import_title": {
+      "message": "Por favor, confirme a importação"
+   },
+   "dlg_confirm_ok": {
+      "message": "OK"
+   },
+   "dlg_confirm_remove_dial_text": {
+      "message": "Remover esse item?"
+   },
+   "dlg_confirm_remove_dial_title": {
+      "message": "Tem certeza?"
+   },
+   "dlg_confirm_remove_group_text": {
+      "message": "%count% Dials nesse grupo"
+   },
+   "dlg_confirm_remove_group_title": {
+      "message": "Tem certeza?"
+   },
+   "dlg_confirm_remove_links_all_text": {
+      "message": "Remover esses links?"
+   },
+   "dlg_confirm_remove_links_all_title": {
+      "message": "Tem certeza?"
+   },
+   "dlg_confirm_set_auto_preview_global_text": {
+      "message": "Você confirma, que todos os seus Dials personalizados serão redefinidos?"
+   },
+   "dlg_confirm_set_auto_preview_global_title": {
+      "message": "Todos os seus Dials personalizados serão redefinidos"
+   },
+   "dlg_confirm_turn_off_autoupdate_globally_text": {
+      "message": "All speed dials auto update settings will be turned off."
+   },
+   "dlg_confirm_turn_off_autoupdate_globally_title": {
+      "message": "Confirm your action"
+   },
+   "dlg_dont_show_it_again": {
+      "message": "Não exibir novamente"
+   },
+   "dlg_importing_finished": {
+      "message": "Sucesso! %groups% grupos e %dials% Dials importados"
+   },
+   "dlg_importing_step1": {
+      "message": "Etapa 1: Limpar os dados antigos"
+   },
+   "dlg_importing_step2": {
+      "message": "Etapa 2: Importar as preferências"
+   },
+   "dlg_importing_step3": {
+      "message": "Etapa 3: Importar os Domínios/URLs bloqueados"
+   },
+   "dlg_importing_step4": {
+      "message": "Etapa 4: Importar os grupos"
+   },
+   "dlg_importing_step5": {
+      "message": "Etapa 5: Importar os Dials"
+   },
+   "dlg_manage_groups_add_group": {
+      "message": "Adicionar grupo"
+   },
+   "dlg_move_to_nosync_group_text": {
+      "message": "Você vai mover esse Dial para um grupo \u003Cb>não sincronizado\u003C/b>.\u003Cbr/>Observe que esse Dial será visível apenas no computador actual. Ele vai \u003Cb>desaparecer\u003C/b> dos outros computadores."
+   },
+   "dlg_move_to_nosync_group_title": {
+      "message": "Mova o Dial para um grupo não sincronizado"
+   },
+   "dlg_nosync_group_text": {
+      "message": "Você vai tornar esse grupo sincronizado um grupo \u003Cb>não sincronizado\u003C/b>. Observe que esse grupo será visível apenas no computador actual. Ele vai \u003Cb>desaparecer\u003C/b> dos outros computadores."
+   },
+   "dlg_nosync_group_title": {
+      "message": "Torne um grupo sincronizado em um não sincronizado"
+   },
+   "error_already_exists": {
+      "message": "Já existe"
+   },
+   "error_fail_get_title_dinamically": {
+      "message": "Falhar ao obter título dinamicamente"
+   },
+   "error_invalid_url": {
+      "message": "URL inválido"
+   },
+   "error_must_be_filled": {
+      "message": "Deve ser preenchido"
+   },
+   "error_not_image": {
+      "message": "O arquivo seleccionado não é uma imagem"
+   },
+   "error_url_deny": {
+      "message": "O URL está bloqueado, verifique seus domínios bloqueados nas opções"
+   },
+   "error_url_deny_host": {
+      "message": "O domínio está bloqueado, verifique seus domínios bloqueados nas opções"
+   },
+   "error_url_deny_url": {
+      "message": "O URL está bloqueado, verifique seus domínios bloqueados nas opções"
+   },
+   "error_wrong_import_data": {
+      "message": "Dados de importação errados"
+   },
+   "extension_locale": {
+      "description": "Para uso interno",
+      "message": "pt_PT"
+   },
+   "newtab_3d_find_override": {
+      "message": "Encontre a opção \"Substituir a lista de renderização do software\" e clique em habilitar"
+   },
+   "newtab_3d_how_to_fix": {
+      "message": "Como corrigir isso:"
+   },
+   "newtab_3d_if_not_works": {
+      "message": "Se isso não ajudar - tente actualizar os Drivers da sua Placa de Vídeo"
+   },
+   "newtab_3d_install_new_drivers": {
+      "message": "Para activar o modo 3D, você precisa actualizar os drivers da sua placa de vídeo"
+   },
+   "newtab_3d_last_step": {
+      "message": "Se você ver essa mensagem novamente, isso significa que o navegador não oferece suporte a sua placa de vídeo para exibir o FVD Speed Dial em 3D."
+   },
+   "newtab_3d_note_dont_afraid": {
+      "message": "Nota: Não tenha medo de activar esse recurso. Não vai acontecer nada de ruim."
+   },
+   "newtab_3d_open_new_tab": {
+      "message": "Abra uma nova guia"
+   },
+   "newtab_3d_restart": {
+      "message": "Reinicie"
+   },
+   "newtab_3d_restart_continue": {
+      "message": "seu navegador e desfrute do novo visual 3D Fancy."
+   },
+   "newtab_3d_type_flags": {
+      "message": "Escreva \"chrome://flags\""
+   },
+   "newtab_3d_without_quotes": {
+      "message": "Sem as aspas"
+   },
+   "newtab_ad_install_text": {
+      "message": "Ver App"
+   },
+   "newtab_all_group_title": {
+      "message": "Popular"
+   },
+   "newtab_apply_theme_bg": {
+      "message": "Usar o tema no plano de fundo"
+   },
+   "newtab_apps_panel_open_desc": {
+      "message": "Pressione \"Ctrl + Espaço\" para Mostrar/Reexibir o painel de Apps."
+   },
+   "newtab_big": {
+      "message": "Grande"
+   },
+   "newtab_cache_life_time": {
+      "message": "Tempo de vida da cache"
+   },
+   "newtab_can_turn_off_newtab_got_it": {
+      "message": "Entendi. Obrigado."
+   },
+   "newtab_can_turn_off_newtab_msg": {
+      "message": "Nota: Você pode desactivar o FVD Speed Dial em uma página de Nova Guia e iniciar simplesmente pressionando o botão."
+   },
+   "newtab_can_turn_off_newtab_opt_app": {
+      "message": "Opções > Aparência"
+   },
+   "newtab_cancel_migrate": {
+      "message": "Cancelar"
+   },
+   "newtab_cancel_theme_bg": {
+      "message": "Cancelar o tema no plano de fundo"
+   },
+   "newtab_cant_move_dials_in_popular": {
+      "message": "You can rearrange dials in ANY group except in \u003Cb>Popular Group\u003C/b>. This group arranges dials by clicks popularity."
+   },
+   "newtab_change_background": {
+      "message": "Alterar o plano de fundo"
+   },
+   "newtab_click_to_get_title": {
+      "message": "Clique para obter o título"
+   },
+   "newtab_columns_auto": {
+      "message": "Automático"
+   },
+   "newtab_custom": {
+      "message": "Personalizado"
+   },
+   "newtab_dblclick_to_expand": {
+      "message": "Clique Duplo para expandir"
+   },
+   "newtab_default": {
+      "message": "Padrão"
+   },
+   "newtab_default_group": {
+      "message": "Grupo padrão"
+   },
+   "newtab_dial_clicks": {
+      "message": "Cliques"
+   },
+   "newtab_dials_search_input_placeholder": {
+      "message": "Search in Speed Dial"
+   },
+   "newtab_dials_search_no_match": {
+      "message": "No Match"
+   },
+   "newtab_dials_search_no_match_query": {
+      "message": "Your search: \u003Cstrong>\u003C/strong> didn't match any Speed Dial titles/urls."
+   },
+   "newtab_dials_search_try_on_web": {
+      "message": "Try on Web? Or press Enter key."
+   },
+   "newtab_disable_page_mod": {
+      "message": "disable this widget"
+   },
+   "newtab_do_not_display_migrate": {
+      "message": "Não exibir novamente."
+   },
+   "newtab_done": {
+      "message": "Feito"
+   },
+   "newtab_enable_most_visited": {
+      "message": "Habilitar os mais visitados"
+   },
+   "newtab_enable_recently_closed": {
+      "message": "Habilitar Fechadas Recentemente"
+   },
+   "newtab_enable_speed_dial": {
+      "message": "Activar o FVD Speed Dial"
+   },
+   "newtab_expand_all": {
+      "message": "Expandir tudo"
+   },
+   "newtab_getting_title": {
+      "message": "A obter o título..."
+   },
+   "newtab_global_options": {
+      "message": "Opções gerais"
+   },
+   "newtab_groups": {
+      "message": "Grupos"
+   },
+   "newtab_hide_all": {
+      "message": "Ocultar tudo"
+   },
+   "newtab_hours": {
+      "message": "Horas"
+   },
+   "newtab_import_available": {
+      "message": "Importar os disponíveis"
+   },
+   "newtab_initialization_message": {
+      "message": "Initialization... Please wait..."
+   },
+   "newtab_instant_seach_preview": {
+      "message": "Desenvolvido pela Yahoo Search"
+   },
+   "newtab_instant_seach_preview_google": {
+      "message": "Pesquisa Instantânea"
+   },
+   "newtab_introduction_button_next": {
+      "message": "Próximo"
+   },
+   "newtab_introduction_button_prev": {
+      "message": "Anterior"
+   },
+   "newtab_introduction_button_start": {
+      "message": "Vamos começar!"
+   },
+   "newtab_introduction_last_step": {
+      "message": "Last step"
+   },
+   "newtab_introduction_opera_how_to_newtab": {
+      "message": "How to set FVD Speed Dial as new tab?"
+   },
+   "newtab_introduction_opera_how_to_newtab_step1": {
+      "message": "1) Install add Custom new tab page from"
+   },
+   "newtab_introduction_opera_how_to_newtab_step2": {
+      "message": "2) Enter the URL in form"
+   },
+   "newtab_introduction_slide1_text": {
+      "message": "Você pode alternar o modo de exibição a qualquer momento clicando com o \u003Cb>Botão Direito > Estilo\u003C/b> ou \u003Cb>Opções > Aparência > Estilo\u003C/b>.\u003Cbr>\u003Cbr>\u003Cimg src=\"images/newtab/introduction/slide1_img.png\">"
+   },
+   "newtab_introduction_slide1_title": {
+      "message": "Escolha o Estilo 3D ou Regular para o Speed Dial"
+   },
+   "newtab_introduction_slide2_text": {
+      "message": "Clique no painel Inferior ou da Esquerda para activar as Apps ou Widgets laterais.\u003Cbr>\u003Cbr>\u003Cb>Dica:\u003C/b> Use o botão de Barra de Espaço no teclado para Mostrar/Ocultar os Widgets"
+   },
+   "newtab_introduction_slide2_title": {
+      "message": "Suas Apps e Widgets"
+   },
+   "newtab_introduction_slide3_text": {
+      "message": "You only need to select this once and we will save your preference"
+   },
+   "newtab_introduction_slide3_title": {
+      "message": "Which phone do you use?"
+   },
+   "newtab_introduction_title": {
+      "message": "Seja bem-vindo ao Tour rápido do FVD Speed Dial!"
+   },
+   "newtab_last_used_group": {
+      "message": "Último grupo usado"
+   },
+   "newtab_light_collapsed_message_text": {
+      "message": "Double click to show Speed Dial"
+   },
+   "newtab_list": {
+      "message": "Lista"
+   },
+   "newtab_listview_noitems": {
+      "message": "Não há itens a serem exibidos"
+   },
+   "newtab_listview_title": {
+      "message": "Título"
+   },
+   "newtab_listview_url": {
+      "message": "URL"
+   },
+   "newtab_listviewmenu_add_dial": {
+      "message": "Adicionar Dial"
+   },
+   "newtab_listviewmenu_delete_all": {
+      "message": "Excluir todos os Links"
+   },
+   "newtab_listviewmenu_open_all": {
+      "message": "Abrir todos os Links"
+   },
+   "newtab_make_as_homepage": {
+      "message": "Tornar a página inicial"
+   },
+   "newtab_manage_groups": {
+      "message": "Gerenciar grupos"
+   },
+   "newtab_max_groups": {
+      "message": "Máximo de Dials em grupos populares:"
+   },
+   "newtab_medium": {
+      "message": "Médio"
+   },
+   "newtab_migrate_message": {
+      "message": "Importar dados de outros addons"
+   },
+   "newtab_most_visited_label": {
+      "message": "Mais visitados (%count%)"
+   },
+   "newtab_mostvisited_ingroup": {
+      "message": "Em grupo"
+   },
+   "newtab_mostvisited_ingroup_small": {
+      "message": "G"
+   },
+   "newtab_mostvisited_interval_all_time": {
+      "message": "Sempre"
+   },
+   "newtab_mostvisited_interval_month": {
+      "message": "Mês passado"
+   },
+   "newtab_mostvisited_interval_week": {
+      "message": "Semana passada"
+   },
+   "newtab_mostvisited_views": {
+      "message": "Visualizações"
+   },
+   "newtab_mostvisited_views_small": {
+      "message": "V"
+   },
+   "newtab_no": {
+      "message": "Não"
+   },
+   "newtab_none": {
+      "message": "none"
+   },
+   "newtab_number_of_columns": {
+      "message": "Número de colunas"
+   },
+   "newtab_number_of_rows": {
+      "message": "Número de linhas"
+   },
+   "newtab_offer_parallax_cancel": {
+      "message": "Close"
+   },
+   "newtab_offer_parallax_description": {
+      "message": "Go to FVD Speed Dial > Settings > Background > Select Parallax in Type Drop down."
+   },
+   "newtab_offer_parallax_title": {
+      "message": "Make your background dynamic with Parallax effect."
+   },
+   "newtab_offer_parallax_try_parallax": {
+      "message": "Try Parallax"
+   },
+   "newtab_offer_theme_bg": {
+      "message": "O SpeedDial está disponível para usar o tema actual como plano de fundo"
+   },
+   "newtab_offer_theme_download": {
+      "message": "Descarregando Plano de Fundo..."
+   },
+   "newtab_ondialsearch_placeholder": {
+      "message": "enter your search.."
+   },
+   "newtab_ops_3d_unavailable": {
+      "message": "Oops, problema no Recurso 3D."
+   },
+   "newtab_options": {
+      "message": "Opções"
+   },
+   "newtab_or": {
+      "message": "or"
+   },
+   "newtab_popular_group_title": {
+      "message": "Popular"
+   },
+   "newtab_powerof_wrong_passcode_text": {
+      "message": "A palavra-passe que você inseriu está incorrecta"
+   },
+   "newtab_powerof_wrong_passcode_title": {
+      "message": "Palavra-passe incorrecta"
+   },
+   "newtab_poweroff": {
+      "message": "PowerOff"
+   },
+   "newtab_poweroff_desc": {
+      "message": "Aprenda como você pode proteger seus Speed Dials de visualizações indesejadas"
+   },
+   "newtab_poweroff_dont_show_again": {
+      "message": "Não exibir novamente"
+   },
+   "newtab_poweroff_enterpasscode": {
+      "message": "Digite a palavra-passe"
+   },
+   "newtab_poweroff_feature": {
+      "message": "Recurso PowerOff"
+   },
+   "newtab_preview": {
+      "message": "Visualizar"
+   },
+   "newtab_quicksitemap_text": {
+      "message": "Melhore a navegação no sítio!"
+   },
+   "newtab_rate_appreciate": {
+      "message": "Nós agradecemos sua ajuda"
+   },
+   "newtab_rate_fvd_speed_dial": {
+      "message": "FVD Speed Dial"
+   },
+   "newtab_rate_text": {
+      "message": "Por favor, escreva seu comentário e nos dê uma nota."
+   },
+   "newtab_recently_closed_label": {
+      "message": "Fechadas Recentemente (%count%)"
+   },
+   "newtab_restore_corrupted_files_msg1": {
+      "message": "Speed Dial needs to reload your data. It will be done automatically as fast as possible."
+   },
+   "newtab_restore_corrupted_files_msg2": {
+      "message": "Don't worry, everything is going as planned. To remain it so,\u003Cbr>\u003Cb>please don't close the window until the process is complete\u003C/b>."
+   },
+   "newtab_restore_corrupted_files_title": {
+      "message": "Pulling Up Your Data"
+   },
+   "newtab_restore_previous_session": {
+      "message": "Restaurar sessão anterior"
+   },
+   "newtab_restore_removed": {
+      "message": "Restaurar as Removidas"
+   },
+   "newtab_search": {
+      "message": "Search"
+   },
+   "newtab_search_input_placeholder": {
+      "message": "Enter your search..."
+   },
+   "newtab_search_on_aliexpress": {
+      "message": "Search on AliExpress"
+   },
+   "newtab_search_on_amazon": {
+      "message": "Search on Amazon"
+   },
+   "newtab_search_on_billiger": {
+      "message": "Search on Billiger"
+   },
+   "newtab_search_on_ebay": {
+      "message": "Search on Ebay"
+   },
+   "newtab_search_on_google": {
+      "message": "Pesquisar"
+   },
+   "newtab_search_on_yandex": {
+      "message": "Pesquisar no Yandex"
+   },
+   "newtab_show_hide": {
+      "message": "Mostrar/Ocultar"
+   },
+   "newtab_show_last": {
+      "message": "Mostrar último"
+   },
+   "newtab_small": {
+      "message": "Pequeno"
+   },
+   "newtab_speeddial_label": {
+      "message": "Speed Dial (%count%)"
+   },
+   "newtab_start_migrate": {
+      "message": "Iniciar a importação"
+   },
+   "newtab_sure": {
+      "message": "Tem certeza?"
+   },
+   "newtab_switch_to_standard": {
+      "message": "Clique aqui para usar o Modo Padrão"
+   },
+   "newtab_sync_button": {
+      "message": "Sync"
+   },
+   "newtab_sync_now": {
+      "message": "Actualizar as Estatísticas"
+   },
+   "newtab_synchronization": {
+      "message": "Sincronização"
+   },
+   "newtab_themes_message_head": {
+      "message": "Uau. Temas disponíveis!"
+   },
+   "newtab_themes_message_install": {
+      "message": "Obter temas!"
+   },
+   "newtab_themes_message_text": {
+      "message": "Instalar temas para o FVD Speed Dial"
+   },
+   "newtab_thumbnails": {
+      "message": "Miniaturas"
+   },
+   "newtab_title": {
+      "description": "Título de uma nova guia",
+      "message": "FVD Speed Dial"
+   },
+   "newtab_voice_search": {
+      "message": "Voice Search"
+   },
+   "newtab_widgets_panel_move_or_delete": {
+      "message": "Mover ou excluir os widgets"
+   },
+   "newtab_widgets_panel_not_found": {
+      "message": "Clique no botão + para adicionar alguns widgets!"
+   },
+   "newtab_widgets_panel_open_desc": {
+      "message": "Pressione \"Espaço\" para Mostrar/Ocultar o painel de Widgets."
+   },
+   "newtab_yes": {
+      "message": "Sim"
+   },
+   "options_all_time": {
+      "message": "Sempre"
+   },
+   "options_apply_changes": {
+      "message": "Aplicar alterações"
+   },
+   "options_available_in_standard_theme_only": {
+      "message": "Available in Standard theme only."
+   },
+   "options_back_to_speeddial": {
+      "message": "Volta para o SpeedDial"
+   },
+   "options_background_color": {
+      "message": "Cor de fundo"
+   },
+   "options_background_options": {
+      "message": "Opções do Plano de Fundo"
+   },
+   "options_backup_via_eversync_suggestion": {
+      "message": "Important! Don't forget to Backup your dials and custom images to restore them any time."
+   },
+   "options_backup_via_eversync_suggestion_button": {
+      "message": "Backup Dials"
+   },
+   "options_bg_color_enabled": {
+      "message": "Habilitado"
+   },
+   "options_bg_from_theme": {
+      "message": "Do tema activo"
+   },
+   "options_bg_from_url": {
+      "message": "Do URL"
+   },
+   "options_bg_image_type": {
+      "message": "Tipo:"
+   },
+   "options_bg_install_themes": {
+      "message": "Novo! Instalar Temas!"
+   },
+   "options_blocked_domains": {
+      "message": "Domínios bloqueados"
+   },
+   "options_cdsize_limits": {
+      "message": "Mín. 150, Máx. 364px"
+   },
+   "options_cdsize_title": {
+      "message": "Tamanho personalizado do Dial"
+   },
+   "options_center": {
+      "message": "Centralizar"
+   },
+   "options_close": {
+      "message": "Fechar"
+   },
+   "options_confirm_reset_clicks_text": {
+      "message": "Do you really want to reset clicks?"
+   },
+   "options_confirm_reset_clicks_title": {
+      "message": "Confirm your action"
+   },
+   "options_current_tab": {
+      "message": "Guia actual"
+   },
+   "options_default_dial": {
+      "message": "Módulo padrão"
+   },
+   "options_default_group": {
+      "message": "Padrão:"
+   },
+   "options_default_screen_delay": {
+      "message": "Atraso de visualização padrão (ms):"
+   },
+   "options_dials_opacity": {
+      "message": "Opacidade dos Dials"
+   },
+   "options_dials_opening": {
+      "message": "Dials abrem em uma:"
+   },
+   "options_disable_custom_search": {
+      "message": "Desabilitar a pesquisa"
+   },
+   "options_disabled": {
+      "message": "Disabled"
+   },
+   "options_display_dial_background": {
+      "message": "Exibir fundos do Dials",
+      "message_old": "Exibir os Dials padrões em plano de fundo"
+   },
+   "options_display_dial_borders": {
+      "message": "Display dial borders"
+   },
+   "options_display_in_new_tab": {
+      "message": "Mostrar em nova aba"
+   },
+   "options_display_mirror": {
+      "message": "Mostrar espelho"
+   },
+   "options_display_plus_cells": {
+      "message": "Mostrar o botão [+] no Speed Dial"
+   },
+   "options_display_popular_group": {
+      "message": "Mostrar grupos populares"
+   },
+   "options_display_quick_menu_and_clicks": {
+      "message": "Mostrar cliques e menu rápido"
+   },
+   "options_display_superfish": {
+      "message": "Sugestões do Superfish"
+   },
+   "options_donate_message": {
+      "message": "Obrigado pelo seu interesse em doar! Sua doação irá ajudar a garantir que possamos continuar a fazer um óptimo software, e manter ele gratuito tanto quanto possível. Como ele pode ser gratuito se estamos pedindo para você doar? Essa é a parte boa — se você não puder pagar ou não tem certeza se vale a pena, você pode continuar usando nosso software gratuitamente sem problemas. Criar, melhorar e expandir nosso Addon FVD Speed Dial custa muito dinheiro. Nós realmente esperamos que os utilizadores satisfeitos ou os utilizadores que gostam da nossa iniciativa estejam dispostos a doar algum dinheiro (se eles puderem pagar), permitindo que a gente alcance tantas pessoas quanto possível em todo o mundo. Doações recebidas NÃO serão usadas para pagar salários ou quaisquer custos indirectos que não esteja directamente relacionado à manutenção do serviço na Internet."
+   },
+   "options_enable": {
+      "message": "Activar"
+   },
+   "options_enable_dials_search": {
+      "message": "Enable search in Speed Dial"
+   },
+   "options_enable_ondial_search": {
+      "message": "Enable search on dials"
+   },
+   "options_enable_search": {
+      "message": "Habilitar a pesquisa"
+   },
+   "options_enable_search_preview": {
+      "message": "Habilitar a visualização de pesquisa"
+   },
+   "options_enable_surfcanyon": {
+      "message": "Habilitar os refinamentos de pesquisa"
+   },
+   "options_enable_widgets_autoscroll": {
+      "message": "Activar o rolamento automático"
+   },
+   "options_enabled": {
+      "message": "Enabled"
+   },
+   "options_export": {
+      "message": "Exportar"
+   },
+   "options_fill": {
+      "message": "Preencher"
+   },
+   "options_fit": {
+      "message": "Ajustar"
+   },
+   "options_font_bolder": {
+      "message": "Negrito"
+   },
+   "options_font_color": {
+      "message": "Cor:"
+   },
+   "options_font_size": {
+      "message": "Tamanho:"
+   },
+   "options_fonts_options": {
+      "message": "Opções de fontes"
+   },
+   "options_global_options": {
+      "message": "Opções Gerais"
+   },
+   "options_global_tabs_appearance": {
+      "message": "Aparência"
+   },
+   "options_global_tabs_main": {
+      "message": "Principal"
+   },
+   "options_groups": {
+      "message": "Grupos"
+   },
+   "options_help": {
+      "message": "Help"
+   },
+   "options_help_url": {
+      "message": "https://s.nimbusweb.me/share/3644739/26cf9i89r01k7swzsw9g"
+   },
+   "options_image_url": {
+      "message": "Fonte da imagem"
+   },
+   "options_import": {
+      "message": "Importar"
+   },
+   "options_import_export": {
+      "message": "Importar/exportar"
+   },
+   "options_last_month": {
+      "message": "Mês passado"
+   },
+   "options_last_selected": {
+      "message": "Últimos seleccionados"
+   },
+   "options_last_week": {
+      "message": "Semana passada"
+   },
+   "options_list_links": {
+      "message": "Lista de links"
+   },
+   "options_load_and_preview": {
+      "message": "Carregar e visualizar"
+   },
+   "options_main_button_action": {
+      "message": "Toolbar button action"
+   },
+   "options_main_button_action_add_site_to_sd": {
+      "message": "Add the active site to Speed Dial"
+   },
+   "options_main_button_action_sd_in_active_tab": {
+      "message": "Open Speed Dial in the active tab"
+   },
+   "options_main_button_action_sd_in_new_tab": {
+      "message": "Open Speed Dial in a new tab"
+   },
+   "options_manage_blocked": {
+      "message": "Gerenciar"
+   },
+   "options_manage_groups": {
+      "message": "Gerenciar grupos"
+   },
+   "options_max_dials_in_popular_group": {
+      "message": "Máximo de Dials em grupos populares:"
+   },
+   "options_most_visited": {
+      "message": "Mais visitadas"
+   },
+   "options_most_visited_options": {
+      "message": "Opções dos Mais visitados"
+   },
+   "options_new_tab": {
+      "message": "Nova guia"
+   },
+   "options_new_tab_background": {
+      "message": "Nova guia (em plano de fundo)"
+   },
+   "options_noimage": {
+      "message": "Nenhuma imagem"
+   },
+   "options_other_texts": {
+      "message": "Outros textos"
+   },
+   "options_parallax_option": {
+      "message": "Parallax"
+   },
+   "options_parallax_strength": {
+      "message": "Parallax strength: "
+   },
+   "options_powerof_password_restore_text": {
+      "message": "A palavra-passe foi enviada para o seu correio electrónico com sucesso"
+   },
+   "options_powerof_password_restore_title": {
+      "message": "Palavra-passe restaurada"
+   },
+   "options_poweroff_10min": {
+      "message": "10min"
+   },
+   "options_poweroff_15min": {
+      "message": "15min"
+   },
+   "options_poweroff_30min": {
+      "message": "30min"
+   },
+   "options_poweroff_3min": {
+      "message": "3min"
+   },
+   "options_poweroff_5min": {
+      "message": "5min"
+   },
+   "options_poweroff_60min": {
+      "message": "60min"
+   },
+   "options_poweroff_change_passcode": {
+      "message": "Mudar palavra-passe"
+   },
+   "options_poweroff_change_passcode_button": {
+      "message": "Mudar palavra-passe"
+   },
+   "options_poweroff_create_passcode": {
+      "message": "Criar palavra-passe"
+   },
+   "options_poweroff_create_passcode_button": {
+      "message": "Criar palavra-passe"
+   },
+   "options_poweroff_email": {
+      "message": "E-Mail de recuperação:"
+   },
+   "options_poweroff_error_email_wrong_format": {
+      "message": "Formato errado de e-mail"
+   },
+   "options_poweroff_error_empty_passcode": {
+      "message": "A palavra-passe está vazia"
+   },
+   "options_poweroff_error_passcode_dont_match": {
+      "message": "As palavras-passes não são iguais"
+   },
+   "options_poweroff_error_wrong_pass_code": {
+      "message": "Palavra-passe incorrecta"
+   },
+   "options_poweroff_idle_timeout_enable": {
+      "message": "Enable Passcode when idle:"
+   },
+   "options_poweroff_new_passcode": {
+      "message": "Palavra-passe nova *:"
+   },
+   "options_poweroff_old_passcode": {
+      "message": "Palavra-passe antiga:"
+   },
+   "options_poweroff_options": {
+      "message": "PowerOff"
+   },
+   "options_poweroff_passcode": {
+      "message": "Palavra-passe:"
+   },
+   "options_poweroff_passcode_changed_text": {
+      "message": "A palavra-passe foi alterada com êxito."
+   },
+   "options_poweroff_passcode_changed_title": {
+      "message": "Sucesso"
+   },
+   "options_poweroff_passcode_setuped": {
+      "message": "A palavra-passe está definida"
+   },
+   "options_poweroff_repeat_passcode": {
+      "message": "Repita a palavra-passe:"
+   },
+   "options_poweroff_restore_button": {
+      "message": "Enviar palavra-passe para o e-mail de recuperação"
+   },
+   "options_poweroff_star_desc": {
+      "message": "* Para remover a palavra-passe, deixe o campo Palavra passe nova em branco."
+   },
+   "options_poweroff_tab_change_pass_title": {
+      "message": "Mudar palavra-passe"
+   },
+   "options_poweroff_tab_desc_1": {
+      "message": "Crie sua palavra-passe pessoal para desbloquear seus Dials."
+   },
+   "options_poweroff_tab_desc_2": {
+      "message": "Após pressionar o botão PowerOff, seus Dials serão ocultados e a única maneira de desbloqueá-los é digitando a palavra-passe."
+   },
+   "options_poweroff_tab_desc_3": {
+      "message": "Esse é um bom recurso se você não quiser que ninguém além de você veja seus Speed Dials."
+   },
+   "options_poweroff_tab_main_title": {
+      "message": "Principal"
+   },
+   "options_poweroff_tab_restore_title": {
+      "message": "Restaurar palavra-passe"
+   },
+   "options_premium_for_share": {
+      "message": "Obter uma conta Premium de Graça!"
+   },
+   "options_quick_preview": {
+      "message": "Quick Preview Widget"
+   },
+   "options_recently_closed": {
+      "message": "Fechadas Recentemente"
+   },
+   "options_recently_closed_max_most_visited": {
+      "message": "(Máx. 75)"
+   },
+   "options_recently_closed_max_show_last": {
+      "message": "(Máx. 100)"
+   },
+   "options_recently_closed_options": {
+      "message": "Opções das Fechadas Recentemente"
+   },
+   "options_recommended_update": {
+      "message": "Recommended dials refresh"
+   },
+   "options_refresh": {
+      "message": "Actualização"
+   },
+   "options_reset_clicks": {
+      "message": "Reset clicks"
+   },
+   "options_reset_speed_dial_clicks": {
+      "message": "Reset dials clicks"
+   },
+   "options_restore_default": {
+      "message": "Restaurar padrão"
+   },
+   "options_scrolling": {
+      "message": "Modo de Rolamento dos Dials"
+   },
+   "options_scrolling_horizontal": {
+      "message": "Horizontal"
+   },
+   "options_scrolling_vertical": {
+      "message": "Vertical"
+   },
+   "options_sd_preview_settings": {
+      "message": "Speed Dial preview setings"
+   },
+   "options_set_auto_preview": {
+      "message": "Definir TODAS as miniaturas Automáticas",
+      "message_old": "Definir TODAS as miniaturas Manuais para Automáticas"
+   },
+   "options_set_auto_preview_button": {
+      "message": "Definir a visualização automática"
+   },
+   "options_set_dials_to_auto_update": {
+      "message": "Set auto update"
+   },
+   "options_show_icons_and_titles_above_dials": {
+      "message": "Mostrar ícones e títulos acima dos Dials"
+   },
+   "options_show_in_context_menu": {
+      "message": "Mostrar no menu de contexto",
+      "message_old": "Mostrar no menu de contexto (clique direito)"
+   },
+   "options_show_last": {
+      "message": "Mostrar último:"
+   },
+   "options_show_title_url_list_mode": {
+      "message": "Mostrar Título/URL (Modo de Lista)"
+   },
+   "options_show_urls_under_dials": {
+      "message": "Mostrar URLs nos Dials"
+   },
+   "options_sort_by": {
+      "message": "Ordenar por"
+   },
+   "options_speed_dial": {
+      "message": "Speed Dial"
+   },
+   "options_speed_dial_options": {
+      "message": "Opções do Speed Dial"
+   },
+   "options_speeddial_max_in_popular": {
+      "message": "(Máx. 50)"
+   },
+   "options_start_donate": {
+      "message": "Donate"
+   },
+   "options_stretch": {
+      "message": "Esticar"
+   },
+   "options_submit_bug": {
+      "message": "Enviar Bug"
+   },
+   "options_submit_suggestion": {
+      "message": "Enviar sugestão"
+   },
+   "options_success_reset_clicks_text": {
+      "message": "Clicks resetted successfully!"
+   },
+   "options_success_reset_clicks_title": {
+      "message": "Success!"
+   },
+   "options_sync_link": {
+      "message": "Instale pela Chrome Webstore"
+   },
+   "options_sync_link_opera": {
+      "message": "Install from Opera Webstore"
+   },
+   "options_sync_need_install": {
+      "message": "Para usar o Sync você precisa instalar a extensão EverSync"
+   },
+   "options_sync_need_install_ability_1": {
+      "message": "Sincronize seus Dials."
+   },
+   "options_sync_need_install_ability_10": {
+      "message": "Gerencie seus Favoritos e Speed Dial."
+   },
+   "options_sync_need_install_ability_11": {
+      "message": "Server auto backups and restore."
+   },
+   "options_sync_need_install_ability_2": {
+      "message": "Sincronize seus Grupos."
+   },
+   "options_sync_need_install_ability_3": {
+      "message": "Sincronize suas Imagens Personalizadas."
+   },
+   "options_sync_need_install_ability_4": {
+      "message": "Use ele entre o Firefox, Chrome, e Computadores Diferentes."
+   },
+   "options_sync_need_install_ability_5": {
+      "message": "Mais recursos estão vindo (Sincronização de Favoritos, Histórico, Notas)."
+   },
+   "options_sync_need_install_ability_6": {
+      "message": "Sincronize seus favoritos do Firefox/Chrome."
+   },
+   "options_sync_need_install_ability_7": {
+      "message": "Sincronize seus ficheiros."
+   },
+   "options_sync_need_install_ability_8": {
+      "message": "Copie dos Favoritos para o FVD Speed Dial e do Speed Dial para os Favoritos."
+   },
+   "options_sync_need_install_ability_9": {
+      "message": "Lixo / Favoritos / Privado / Arquivo / Pesquisa Avançada e mais recursos adicionais."
+   },
+   "options_sync_need_install_desc": {
+      "message": "Para usar o Fvd Sync, você precisa instalar um addon adicional - a extensão EverSync:"
+   },
+   "options_sync_need_install_everhelper": {
+      "message": "Sua área de cliente do EverHelper:"
+   },
+   "options_sync_need_install_fvd_speeddial": {
+      "message": "FVD SpeedDial"
+   },
+   "options_sync_need_install_fvd_sync": {
+      "message": "Sincronize os favoritos:"
+   },
+   "options_sync_warning_line_1": {
+      "message": "\u003Cb>A sincronização do addon requer uma permissão que é chamada de \"Acesso a todos os dados no computador\"\u003C/b>"
+   },
+   "options_sync_warning_line_2": {
+      "message": "Isso não quer dizer que nosso addon irá aceder todos os seus arquivos!"
+   },
+   "options_sync_warning_line_3": {
+      "message": "Nós precisamos \u003Cb>aceder apenas um arquivo de favorito no ambiente do Chrome.\u003C/b>"
+   },
+   "options_sync_warning_line_4": {
+      "message": "E se você obter permissão para sobrescrever algum arquivo(s), o Chrome chama isso de \"Acesso completo\"."
+   },
+   "options_sync_warning_line_5": {
+      "message": "Por favor, não fique paranóico com isso! A Chrome Webstore revisa esses addons manualmente!!!"
+   },
+   "options_text_in_list_mode": {
+      "message": "Texto no modo de lista"
+   },
+   "options_tile": {
+      "message": "Cobrir"
+   },
+   "options_title": {
+      "message": "Opções do FVD Speed Dial"
+   },
+   "options_title_for_dials": {
+      "message": "Título (para os Dials)"
+   },
+   "options_turn_off_dials_auto_update": {
+      "message": "Turn off auto update"
+   },
+   "options_url_for_dials": {
+      "message": "URL (para os Dials)"
+   },
+   "options_widgets_autoscroll_speed": {
+      "message": "Velocidade do rolamento automático"
+   },
+   "options_widgets_bgcolor_title": {
+      "message": "Cor de fundo do painel de widgets"
+   },
+   "options_widgets_enabled_title": {
+      "message": "Activar widgets"
+   },
+   "options_widgets_opacity_title": {
+      "message": "Opacidade do painel de widgets"
+   },
+   "options_widgets_options": {
+      "message": "Widgets"
+   },
+   "popup_options": {
+      "message": "Opções"
+   },
+   "popup_speed_dial": {
+      "message": "Speed Dial"
+   },
+   "sah_copied": {
+      "message": "Copiado!"
+   }
+}
