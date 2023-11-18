@@ -98,3 +98,7 @@ To avoid possible problems, it is recommended that you clear your browser's cach
 ### 3.5. Пreat! Now all the tabs are back with you. We just have to wait for the thumbnail creation to complete. For some tabs, you will have to customize the images again.
 
 ![Image 16](./img/16.png)
+
+# Notice
+
+You don't have to delete the original extension, but just leave it disabled so that there is a way to come back and not lose data.
