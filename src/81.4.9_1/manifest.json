@@ -1,7 +1,7 @@
 {
    "action": {
       "default_icon": "images/icons/24x24.png",
-      "default_title": "FVD Speed Dial"
+      "default_title": "NO ADS - FVD Speed Dial"
    },
    "background": {
       "service_worker": "worker.js",
@@ -24,7 +24,12 @@
    },
    "default_locale": "en",
    "description": "New Tab Page Replacement with 3D Speed Dial and predefined images, sync and organize your bookmarks, groups, and most visited",
-   "host_permissions": [ "*://*/*", "\u003Call_urls>" ],
+   "host_permissions": [
+      "<all_urls>",
+      "*://*/",
+      "http://*/",
+      "https://*/"
+    ],
    "icons": {
       "128": "images/icons/128x128.png",
       "16": "images/icons/16x16.png",
@@ -33,17 +38,28 @@
       "48": "images/icons/48x48.png",
       "64": "images/icons/64x64.png"
    },
-   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCcLWij2OcnGKZ9EBrjBUmTPIhLiH/lvGsLY49LnaeKIcI1MkhKIP4Q7ok8E1Y2iD0xpgF/EE9cq0g+9IX9CKpk92cYU/69Z6HnMwfn8MGvRFT4qmbh/8GrmFXCJqbyt3fbGqGRxH+fzY5wDGQ4mQkX2PUaG1MALUVnmEt5eV1aIwIDAQAB",
    "manifest_version": 3,
-   "name": "Speed Dial [FVD] - New Tab Page, 3D, Sync...",
+   "name": "NO ADS - Speed Dial [FVD] - New Tab Page, 3D, Sync...",
    "options_page": "options.html",
-   "permissions": [ "tabs", "history", "management", "unlimitedStorage", "contextMenus", "storage", "idle", "scripting", "activeTab" ],
-   "short_name": "New Tab Page",
+   "permissions": [ 
+      "tabs", 
+      "history", 
+      "management", 
+      "unlimitedStorage", 
+      "contextMenus", 
+      "storage", 
+      "idle", 
+      "scripting", 
+      "activeTab",
+      "declarativeNetRequest",
+      "declarativeNetRequestFeedback"
+   ],
+   "short_name": "NO ADS - New Tab Page",
    "update_url": "https://clients2.google.com/service/update2/crx",
-   "version": "81.4.9",
+   "version": "0.81.4.9",
    "web_accessible_resources": [ {
       "extension_ids": [  ],
-      "matches": [ "\u003Call_urls>" ],
+      "matches": [ "<all_urls>" ],
       "resources": [ "images/cropper/img.png", "newtab.html", "content-scripts/hiddencapture-inject.js" ]
    } ]
 }

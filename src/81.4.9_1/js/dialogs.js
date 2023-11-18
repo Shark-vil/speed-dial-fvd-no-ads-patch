@@ -7,7 +7,7 @@ import Config from './config.js';
 import DialSearch from './newtab/searchoverlay.js';
 import DragLists from './newtab/draglists.js';
 import HistoryComplete from './historycomplete.js';
-import Analytics from './bg/google-analytics.js';
+// import Analytics from './bg/google-analytics.js';
 
 const ManageGroupsModule = function (fvdSpeedDial) {
 	this.fvdSpeedDial = fvdSpeedDial;
@@ -2186,7 +2186,7 @@ DialogsModule.prototype = {
 																	group: groupTitle,
 																	group_id:groupValue,
 																};
-																Analytics.fireAddDialEvent(GADialAddParams);
+																// Analytics.fireAddDialEvent(GADialAddParams);
 															});
 														}
 

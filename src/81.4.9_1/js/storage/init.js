@@ -1,7 +1,7 @@
 import AppLog from '../log.js';
 import Broadcaster from '../_external/broadcaster.js';
 import { Utils } from '../utils.js';
-import ServerDials from '../bg/serverdialsModule.js';
+// import ServerDials from '../bg/serverdialsModule.js';
 import Dexie from '../_external/dexie.js';
 import { _ } from '../localizer.js';
 
@@ -107,25 +107,28 @@ const initStorage = function (fvdSpeedDial, tx, databaseBackup, callback) {
 				function (next) {
 					// need to fetch dials from server
 
-					const serverDials = new ServerDials(fvdSpeedDial);
+					// const serverDials = new ServerDials(fvdSpeedDial);
 
-					serverDials.fetch(
-						{
-							userType: 'new',
-						},
-						function (err, dials) {
-							if (err) {
-								groupDials = [];
-								AppLog.err('Fail to fetch dials from the server', err);
-								console.error('Fail to fetch dials from the server', err);
-							} else {
-								AppLog.info('Fetched', dials.length, ' dials from the server');
-								groupDials = dials;
-							}
+					// serverDials.fetch(
+					// 	{
+					// 		userType: 'new',
+					// 	},
+					// 	function (err, dials) {
+					// 		if (err) {
+					// 			groupDials = [];
+					// 			AppLog.err('Fail to fetch dials from the server', err);
+					// 			console.error('Fail to fetch dials from the server', err);
+					// 		} else {
+					// 			AppLog.info('Fetched', dials.length, ' dials from the server');
+					// 			groupDials = dials;
+					// 		}
 
-							next();
-						}
-					);
+					// 		next();
+					// 	}
+					// );
+
+					groupDials = [];
+					next();
 				},
 				function (next) {
 					fvdSpeedDial.StorageSD.getGroup('default', function (group) {

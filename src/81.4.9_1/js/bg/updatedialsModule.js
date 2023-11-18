@@ -14,7 +14,8 @@ class UpdateDials {
 	update() {
 		const fvdSpeedDial = this.fvdSpeedDial;
 		const dialsCreated = [];
-		const allowedGroups = ['default', 'sponsoredst', 'recommend'];
+		// const allowedGroups = ['default', 'sponsoredst', 'recommend'];
+		const allowedGroups = ['default'];
 		const allowedGroupIds = [];
 		let excludeGlobalIds = [];
 		let allowedExitingDials = [];

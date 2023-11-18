@@ -35,6 +35,8 @@ SpeedDialMisc.prototype = {
 	refreshSearchPanel: function () {
 		const { fvdSpeedDial } = this;
 
+		// fvdSpeedDial.Prefs.sSet('sd.enable_search', false);
+
 		fvdSpeedDial.Sync.isActive(active => {
 			if (_b(fvdSpeedDial.Prefs.get('sd.enable_search'))) {
 				const cseSearchBox = document.getElementById('cse-search-box');

@@ -8,7 +8,7 @@ import SpeedDialBuilderModule from './speeddial/builder.js';
 import { ThumbManagerModule } from '../thumbmanager/tab.js';
 import ThumbManagerBgModule from '../thumbmanager/bg.js';
 import { Log } from '../../extras/log.js';
-import Analytics from '../bg/google-analytics.js';
+// import Analytics from '../bg/google-analytics.js';
 import { defaultGroupGlobalIds, newTabUrls } from '../constants.js';
 
 let _loadLog = new Log();
@@ -602,6 +602,7 @@ SpeedDialModule.prototype = {
 		this.DragAndDrop.init();
 
 		function trackGAPageViewEvent(tab) {
+			/*
 			if (tab.active) {
 				const groupID = SpeedDial.currentGroupId();
 				let isDisplayDials = fvdSpeedDial.Prefs.get('sd.speeddial_expanded');
@@ -624,12 +625,13 @@ SpeedDialModule.prototype = {
 							})) : undefined,
 						};
 
-						Analytics.fireTabViewEvent(params);
+						// Analytics.fireTabViewEvent(params);
 					});
 
 				});
 
 			}
+			*/
 		}
 
 		setTimeout(() => {
@@ -645,7 +647,7 @@ SpeedDialModule.prototype = {
 
 				setTimeout(() => {
 					updateStop = false;
-					trackGAPageViewEvent(tab);
+					// trackGAPageViewEvent(tab);
 				}, 1000);
 			}
 		}
@@ -661,7 +663,7 @@ SpeedDialModule.prototype = {
 		// full rebuild when tab activated
 		chrome.tabs.onActivated.addListener(function (info) {
 			chrome.tabs.getCurrent(function (tab) {
-				trackGAPageViewEvent(tab);
+				// trackGAPageViewEvent(tab);
 
 				if (tab.id === info.tabId) {
 					if (document.body.hasAttribute('dial-search-show-results')) {

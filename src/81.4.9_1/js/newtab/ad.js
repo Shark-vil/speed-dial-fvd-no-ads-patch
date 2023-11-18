@@ -1,3 +1,4 @@
+/*
 import Prefs from '../prefs.js';
 import { _b, Utils } from '../utils.js';
 import Config from '../config.js';
@@ -59,3 +60,4 @@ document.addEventListener("DOMContentLoaded", function () {
 		ads.push(new AD(tmp[1]));
 	}
 }, false);
+*/

@@ -1325,7 +1325,7 @@ body[scrollingtype='vertical'] #speedDialWrapper {
 	margin-top: 10px;
 }
 
-.remoteADContainerOverlay {
+/* .remoteADContainerOverlay {
 	z-index: 99999999;
 	position: fixed;
 	left: 0px;
@@ -1352,7 +1352,7 @@ body[scrollingtype='vertical'] #speedDialWrapper {
 .remoteADContainer .bottomButtons input {
 	float: left;
 	margin-right: 2px;
-}
+} */
 
 #premiumforshareOverflay {
 	position: fixed;

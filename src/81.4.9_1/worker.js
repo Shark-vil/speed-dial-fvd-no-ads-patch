@@ -24,9 +24,9 @@ import { Utils, _b } from './js/utils.js';
 import Config from './js/config.js';
 import { EventType } from './js/types.js';
 import PowerOffModule from './js/poweroff.js';
-import UpdateDials from './js/bg/updatedialsModule.js';
+// import UpdateDials from './js/bg/updatedialsModule.js';
 import { default as FvdSpeedDialModule } from './js/speedDialCore.js';
-import Analytics from './js/bg/google-analytics.js';
+// import Analytics from './js/bg/google-analytics.js';
 class Worker {
     constructor() {
         this.fvdSpeedDial = new FvdSpeedDialModule(this.addEventListener, { mode: "worker" });
@@ -69,15 +69,15 @@ class Worker {
         });
     }
     refetchDials() {
-        const lastRequestDate = this.fvdSpeedDial.localStorage.getItem('last-refetch');
-        const currentDate = new Date();
-        if (this.fvdSpeedDial.Prefs.get('sd.enable_update_recommended') === 'enabled') {
-            if (!lastRequestDate || isDifferentDay(new Date(lastRequestDate), currentDate)) {
-                const refetchModule = new UpdateDials(this.fvdSpeedDial);
-                refetchModule.update();
-                this.fvdSpeedDial.localStorage.setItem('last-refetch', currentDate.toString());
-            }
-        }
+        // const lastRequestDate = this.fvdSpeedDial.localStorage.getItem('last-refetch');
+        // const currentDate = new Date();
+        // if (this.fvdSpeedDial.Prefs.get('sd.enable_update_recommended') === 'enabled') {
+        //     if (!lastRequestDate || isDifferentDay(new Date(lastRequestDate), currentDate)) {
+        //         const refetchModule = new UpdateDials(this.fvdSpeedDial);
+        //         refetchModule.update();
+        //         this.fvdSpeedDial.localStorage.setItem('last-refetch', currentDate.toString());
+        //     }
+        // }
     }
     contextMenu() {
         const { fvdSpeedDial } = this;
@@ -334,12 +334,12 @@ class Worker {
         if (onInstalledDetails) {
             if (onInstalledDetails.reason === 'install') {
                 localStorage.setItem('installVersion', chrome.runtime.getManifest().version);
-                Analytics.fireInstallEvent();
+                // Analytics.fireInstallEvent();
             }
             else if (onInstalledDetails.reason === 'update') {
                 localStorage.removeItem('_serverDialsExcludeGlobalIds');
                 Utils.releaseNotes(fvdSpeedDial, true);
-                Analytics.fireUpdateEvent();
+                // Analytics.fireUpdateEvent();
             }
         }
     }

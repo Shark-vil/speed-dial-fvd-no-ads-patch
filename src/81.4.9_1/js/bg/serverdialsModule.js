@@ -72,7 +72,8 @@ class ServerDials {
 	clientSoftware = null;
 	country = null;
 	listeners = [];
-	avoidToExcludeGroups = ['sponsoredst', 'recommend'];
+	// avoidToExcludeGroups = ['sponsoredst', 'recommend'];
+	avoidToExcludeGroups = [];
 	onDialsUpdate = {
 		addListener: (fn) => {
 			if (this.listeners.indexOf(fn) === -1) {

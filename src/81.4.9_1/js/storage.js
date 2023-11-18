@@ -8,7 +8,7 @@ import FileSystemSD from './storage/filesystem.js';
 import { _ } from './localizer.js';
 import initStorage from './storage/init.js';
 import { defaultGroupTitles } from './constants.js';
-import Analytics from './bg/google-analytics.js';
+// import Analytics from './bg/google-analytics.js';
 
 const LOG_STORAGE = true;
 const CACHE = {};
@@ -1921,7 +1921,7 @@ class StorageSD {
 							group: groupTitle,
 							group_id: d.group_id,
 						};
-						Analytics.fireRemoveDialEvent(GADialAddParams);
+						// Analytics.fireRemoveDialEvent(GADialAddParams);
 					});
 
 					let thumb = String(d.thumb) || '';
@@ -3177,12 +3177,12 @@ class StorageSD {
 
 			if (group) {
 				switch (group.global_id) {
-					case defaultGroupTitles.recommend.key:
-						groupTitle = defaultGroupTitles.recommend.value;
-						break;
-					case defaultGroupTitles.sponsoredst.key:
-						groupTitle = defaultGroupTitles.sponsoredst.value;
-						break;
+					// case defaultGroupTitles.recommend.key:
+					// 	groupTitle = defaultGroupTitles.recommend.value;
+					// 	break;
+					// case defaultGroupTitles.sponsoredst.key:
+					// 	groupTitle = defaultGroupTitles.sponsoredst.value;
+					// 	break;
 					case defaultGroupTitles.default.key:
 						groupTitle = defaultGroupTitles.default.value;
 						break;

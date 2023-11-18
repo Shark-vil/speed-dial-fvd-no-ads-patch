@@ -15,11 +15,11 @@ const AppAnalyticsClient = {
 		data.tid = Config.ANALYTICS_TID;
 		data.an = Config.ANALYTICS_APP;
 		data.cid = this.getCid();
-		const body = Utils.httpBuildQuery(data);
-		const xhr = new XMLHttpRequest();
+		// const body = Utils.httpBuildQuery(data);
+		// const xhr = new XMLHttpRequest();
 
-		xhr.open('POST', 'https://www.google-analytics.com/collect');
-		xhr.send(body);
+		// xhr.open('POST', 'https://www.google-analytics.com/collect');
+		// xhr.send(body);
 	},
 	event: function (category, action, label, data) {
 		data = data || {};

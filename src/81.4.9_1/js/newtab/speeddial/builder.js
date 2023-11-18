@@ -8,7 +8,7 @@ import RecentlyClosed from '../../storage/recentlyclosed.js';
 import Sync from '../../sync/tab.js';
 import Config from '../../config.js';
 import { defaultGroupTitles } from '../../constants.js';
-import Analytics from '../../bg/google-analytics.js';
+// import Analytics from '../../bg/google-analytics.js';
 
 const mirrorSurfaceDistance = 0;
 const CLICK_SCREEN_OVER = 100;
@@ -712,30 +712,20 @@ SpeedDialBuilderModule.prototype = {
 				'click',
 				function (event) {
 					fvdSpeedDial.StorageSD.getGroupTitleById(groupId, (groupTitle) => {
-						const metricParams = {
-							dial_group: groupTitle,
-						};
-
-						const dialsRequiredGroups = [defaultGroupTitles.recommend.value, defaultGroupTitles.sponsoredst.value];
+						const dialsRequiredGroups = [defaultGroupTitles.default.value];
 
 						if (dialsRequiredGroups.includes(groupTitle)) {
 							fvdSpeedDial.StorageSD.getDialListByGroupId(groupId, (groupDials) => {
-								metricParams.items = groupDials.map((item) => ({
+								groupDials.map((item) => ({
 									item_name: item.title,
 									item_url: fvdSpeedDial.SpeedDialMisc.getCleanRedirectTxt(item.display_url),
 								}));
-								Analytics.fireGroupVisitEvent(metricParams);
+								// Analytics.fireGroupVisitEvent(metricParams);
 							});
 						} else {
-							Analytics.fireGroupVisitEvent(metricParams);
+							// Analytics.fireGroupVisitEvent(metricParams);
 						}
 
-						// after group clicking, fires tab update listener, that fires GA page_view event
-						// by bellow logic preventing fake page view event;
-						fvdSpeedDial.localStorage.setItem('preventPageViewEvent', true);
-						setTimeout(() => {
-							fvdSpeedDial.localStorage.setItem('preventPageViewEvent', false);
-						}, 1000);
 
 					});
 
@@ -981,13 +971,13 @@ SpeedDialBuilderModule.prototype = {
 				if (displayType === 'speeddial') {
 					if (allowAddClick) {
 						StorageSD.getGroupTitleById(data.group_id, (groupTitle, group) => {
-							Analytics.fireDialClickEvent({
-								title: data.title,
-								url: getCleanUrl(data.display_url),
-								dial_id: data.id,
-								group: groupTitle,
-								group_id: data.group_id,
-							});
+							// Analytics.fireDialClickEvent({
+							// 	title: data.title,
+							// 	url: getCleanUrl(data.display_url),
+							// 	dial_id: data.id,
+							// 	group: groupTitle,
+							// 	group_id: data.group_id,
+							// });
 						});
 						SpeedDial.addDialClick(data.id);
 						allowAddClick = false;

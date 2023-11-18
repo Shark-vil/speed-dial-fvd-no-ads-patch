@@ -129,6 +129,7 @@ OptionsModule.prototype = {
 
 		const that = this;
 
+		/*
 		const isPremiumUser = this.fvdSpeedDial.UserInfoSync.getIsPremiumUser();
 
 		if (isPremiumUser) {
@@ -144,6 +145,7 @@ OptionsModule.prototype = {
 
 			that.fvdSpeedDial.Prefs.set('sd.enable_search', true);
 		}
+		*/
 
 		this._roller = Roller.create(document.getElementById("rollerContent"), ROLLER_ELEM_WIDTH);
 		this._listenOptions();
@@ -627,9 +629,11 @@ OptionsModule.prototype = {
 				Prefs.set("sd.top_sites_columns", "auto");
 			}
 
+			/*
 			if (name === 'sd.enable_search' && UserInfoSync.getIsPremiumUser()) {
 				UserInfoSync.setIsSearchEnable(this._getOptionValue(options[i]));
 			}
+			*/
 
 			Prefs.set(name, this._getOptionValue(options[i]));
 		}
