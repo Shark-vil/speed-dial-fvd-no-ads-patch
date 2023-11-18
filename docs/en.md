@@ -86,3 +86,11 @@
 ### 3.5. Пreat! Now all the tabs are back with you. We just have to wait for the thumbnail creation to complete. For some tabs, you will have to customize the images again.
 
 ![Image 16](./img/16.png)
+
+## 4. Recommendations
+
+### 4.1. To avoid possible problems, it is recommended that you clear your browser's cache history for the entire time.
+
+# Cache history only! Not views, cookies, etc.
+
+![Image ёё](./img/17.png)
