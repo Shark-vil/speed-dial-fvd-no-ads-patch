@@ -60,7 +60,7 @@ To avoid possible problems, it is recommended that you clear your browser's cach
 
 ![Image 8](./img/8.png)
 
-### 2.6. После добавления, расширение появится в списке, и должна произойти переадресация в меню настройки. Если этого не произошло, просто откройте [пустую вкладку](chrome://newtab/).
+### 2.6. Once added, the extension will appear in the list and should redirect to the settings menu. If it doesn't, just open [empty tab](chrome://newtab/).
 
 ![Image 9](./img/9.png)
 
